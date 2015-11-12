@@ -1,0 +1,7 @@
+﻿{
+  "scenario" :  "Test Case that has attributes and repeating entities",
+  "nestedData": [
+    { "id": "1" },
+    { "id": "2" }
+  ]
+}
